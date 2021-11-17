@@ -12,4 +12,4 @@ This solution predicts whether a flight would be delayed at the origin airport a
 * Mphasis HyperGraf is an Omni-channel customer 360 analytics solution. Mphasis HyperGraf is an omni-channel customer 360 analytics solution. Need customized Deep Learning/NLP solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/seller-profile?id=f1072b76-f77a-437c-8324-bf16b9a82c08)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-hqcuphf3x6j7c)
